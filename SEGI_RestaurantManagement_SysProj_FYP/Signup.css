@@ -1,0 +1,88 @@
+﻿*{
+   margin:0px;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    margin:0px;
+}
+
+.container {
+    position:fixed;
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    padding-top:100px;
+}
+
+    .container .img {
+        position: relative;
+        background-image: url(images/nathan-dumlao-ipbvncyrsx0-unsplash.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-blend-mode: multiply;
+        background-color: rgb(58, 57, 57);
+        width: 40%;
+        height: 70vh;
+        margin: 0px auto;
+        border-radius: 30px;
+    }
+
+.img >.listitems{
+    display:inline-flex;
+    flex-direction:column;
+    gap:30px;
+    margin-top:10px;
+    margin-left:50px;
+    text-align:center;
+}
+
+.listitems li{
+    list-style:none;
+    color:white;
+    font
+}
+
+#name {
+    border-radius: 10px;
+    box-shadow: rgb(12, 11, 11);
+}
+#username{
+    border-radius:10px;
+    box-shadow:rgb(12, 11, 11);
+}
+
+#pw {
+    border-radius: 10px;
+    box-shadow: rgb(12, 11, 11);
+}
+
+#email {
+    border-radius: 10px;
+    box-shadow: rgb(12, 11, 11);
+}
+
+#telno {
+    border-radius: 10px;
+    box-shadow: rgb(12, 11, 11);
+}
+
+#confirmpw {
+    border-radius: 10px;
+    box-shadow: rgb(12, 11, 11);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#backto_btn {
+    border-radius: 20px;
+    background-color: white;
+}
+
+    #backto_btn:hover {
+        background-color: rgb(58, 57, 57);
+        color: white;
+    }

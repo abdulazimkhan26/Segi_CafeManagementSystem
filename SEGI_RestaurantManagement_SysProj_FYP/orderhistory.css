@@ -1,0 +1,29 @@
+﻿*{
+   margin:0px;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    margin:0px;
+}
+
+#GridView1 {
+    position: relative;
+    left: 27%;
+    text-align:center;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    background-color: floralwhite;
+}
+
+#backbtn {
+    position: relative;
+    left: 34%;
+    padding: 6px;
+    width: 500px;
+    margin-top: 20px;
+}

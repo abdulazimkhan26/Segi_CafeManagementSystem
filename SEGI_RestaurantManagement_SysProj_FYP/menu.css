@@ -1,0 +1,107 @@
+﻿* {
+    margin: 0px;
+    box-sizing:border-box;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    overflow-x: hidden;
+    overflow-y:hidden;
+}
+
+.container {
+    margin: 0px auto;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: 1fr;
+    grid-template-areas: "display display display display cart"
+}
+
+.display {
+   
+    background-color: rgb(58, 57, 57);
+    grid-area: display;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    grid-template-rows: 1fr;
+    grid-template-areas: "sidebar menu_items menu_items menu_items menu_items menu_items menu_items menu_items"
+}
+
+.cart {
+    background-color: bisque;
+    grid-area: cart;
+    max-height: 100vh;
+    padding: 10px;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.sidebar {
+    background-color: cornflowerblue;
+    grid-area: sidebar;
+    padding-top: 30px;
+    max-height: 100vh;
+}
+
+.sidebar_list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:  flex-start;
+    gap: 20px;
+}
+
+
+
+.menu_items {
+    background-color:white;
+    grid-area: menu_items;
+    padding: 20px;
+    overflow: scroll;
+    overflow-x:hidden;
+    top: 9vh;
+}
+
+.items_inmenulist{
+
+    display:flex;
+    flex-direction:row;
+    list-style:none;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    align-items:normal;
+    gap:30px;
+    padding-bottom:30px;
+    top:9vh;
+}
+
+    .itemsmenu:hover{
+        transform:scale(1.2,1.2);
+    }
+
+    .itemsmenu {
+        width: 210px;
+        height: 200px;
+        background-color: aquamarine;
+        border-radius: 10px;
+    }
+
+#GridView1{
+    text-align:center;
+    max-height:200px;
+    overflow-y:scroll;
+}
+
+#place_order{
+    margin-top:700px;
+    position:fixed;
+}
+

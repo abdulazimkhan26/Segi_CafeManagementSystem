@@ -1,0 +1,176 @@
+﻿* {
+    margin: 0px;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    overflow-x: hidden;
+}
+
+.container {
+    background-color: whitesmoke;
+    width: 100%;
+    height: fit-content;
+    margin:0px;
+}
+
+.navbar {
+    position:relative;
+    background-color: rgb(184, 246, 30);
+    width:100%;
+    margin: 0px auto;
+    height: 9vh;
+    position: fixed;
+}
+
+.navlist{
+    position:absolute;
+    display:flex;
+    flex-direction:row;
+    gap:60px;
+    list-style:none;
+    top:25%;
+    left:70%;
+}
+
+.navlist a{
+    text-decoration:none;
+    color:black;
+}
+
+.nav_items {
+    width: fit-content;
+    height: fit-content;
+    padding: 7px;
+    border-radius:5px;
+    font-size:19px;
+}
+
+.nav_items:hover {
+    padding: 7px;
+    background-color: black;
+    color:white;
+}
+
+
+.pageItems{
+    margin:0 auto;
+    width:100%;
+    height: 93vh;
+    background-color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.slider{
+    width:110%;
+    height:500px;
+    border-radius:50px;
+    margin-bottom:70px;
+}
+
+.slides {
+    width: 500%;
+    height: 500px;
+    display:flex;
+}
+
+.slides input{
+    display:none;
+    
+}
+
+.slide{
+    width:20%;
+    transition:3s;
+}
+
+.slide img{
+    width:1920px;
+    height:600px;
+}
+
+.navigation-manual{
+    position:absolute;
+    width:1700px;
+    display:flex;
+    justify-content:center;
+}
+
+.manual_btn{
+    border:2px solid #40d38c;
+    padding: 5px;
+    border-radius:10px;
+    cursor:pointer;
+    transition:1s;
+}
+
+.manual_btn:not(:last-child)
+{
+    margin-right:40px;
+}
+
+.manual_btn:hover {
+    background-color: aqua;
+}
+
+#radio1:checked ~ .first{
+    margin-left:0;
+}
+
+#radio2:checked ~ .first {
+    margin-left: -20%;
+}
+
+#radio3:checked ~ .first {
+    margin-left: -40%;
+}
+
+#radio4:checked ~ .first {
+    margin-left: -60%;
+}
+
+.tonavigation_cards{
+}
+
+.tonavigatio_cards{
+    width:100;
+    height:auto;
+    background-color:antiquewhite;
+    margin-top:-45px;
+    padding:20px;
+}
+
+.card_list{
+    list-style:none;
+    display: flex;
+    flex-direction: row;
+    gap:90px;
+    justify-content:center;
+    align-items:center;
+    margin-top:50px;
+}
+
+.card {
+    width: 300px;
+    height: 300px;
+    border-radius: 40px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+    .card:hover {
+        color: white;
+        background-color: red;
+        transform: scale(1.1,1.1);
+    }
+.fa fa-user{
+    color:black;
+    height:100px;
+    width:100px;
+}

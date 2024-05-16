@@ -1,0 +1,38 @@
+﻿*{
+   margin:0px;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    margin:0px;
+}
+
+#GridView1 {
+    position: relative;
+    text-align: center;
+    margin: 0px auto;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    
+}
+
+#print_btn{
+    position:relative;
+    left:41%;
+    padding:6px;
+    width:120px;
+    margin-top:20px;
+}
+
+#back_btn {
+    position: absolute;
+    left: 51%;
+    padding: 6px;
+    width: 120px;
+    margin-top: 20px;
+}

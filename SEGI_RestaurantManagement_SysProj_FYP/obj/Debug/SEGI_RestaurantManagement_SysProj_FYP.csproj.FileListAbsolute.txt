@@ -1,0 +1,186 @@
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\SEGI_RestaurantManagement_SysProj_FYP.dll.config
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\SEGI_RestaurantManagement_SysProj_FYP.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\SEGI_RestaurantManagement_SysProj_FYP.pdb
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csc.exe
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csc.exe.config
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csc.rsp
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csi.exe
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csi.exe.config
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csi.rsp
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.AppContext.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Console.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.IO.Compression.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Net.Http.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.ValueTuple.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\vbc.exe
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\vbc.exe.config
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\vbc.rsp
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\VBCSCompiler.exe
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Antlr3.Runtime.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Newtonsoft.Json.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Net.Http.Formatting.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Helpers.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Http.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Http.WebHost.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Mvc.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Optimization.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Razor.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.Razor.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\WebGrease.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Optimization.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Newtonsoft.Json.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Antlr3.Runtime.pdb
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Razor.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.Razor.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Helpers.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Mvc.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Net.Http.Formatting.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Http.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Http.WebHost.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.csproj.AssemblyReference.cache
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.csproj.CoreCompileInputs.cache
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.csproj.CopyComplete
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.pdb
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Data.SqlClient.dll
+C:\Users\azimkhan\source\repos\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Data.SqlClient.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\SEGI_RestaurantManagement_SysProj_FYP.dll.config
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\SEGI_RestaurantManagement_SysProj_FYP.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\SEGI_RestaurantManagement_SysProj_FYP.pdb
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csc.exe
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csc.exe.config
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csc.rsp
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csi.exe
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csi.exe.config
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\csi.rsp
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.AppContext.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Collections.Immutable.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Console.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Globalization.Calendars.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.IO.Compression.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.IO.FileSystem.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Net.Http.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Net.Sockets.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Reflection.Metadata.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.ValueTuple.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Xml.XPath.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\vbc.exe
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\vbc.exe.config
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\vbc.rsp
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\VBCSCompiler.exe
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\roslyn\VBCSCompiler.exe.config
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Antlr3.Runtime.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\AspNet.ScriptManager.jQuery.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.ScriptManager.WebForms.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.Web.Infrastructure.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Newtonsoft.Json.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Data.SqlClient.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Net.Http.Formatting.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Helpers.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Http.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Http.WebHost.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Mvc.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Optimization.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Razor.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.Deployment.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.Razor.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\WebGrease.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Data.SqlClient.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Optimization.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Newtonsoft.Json.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Antlr3.Runtime.pdb
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Razor.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.Deployment.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Webpages.Razor.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Helpers.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Mvc.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Net.Http.Formatting.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Http.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\System.Web.Http.WebHost.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.csproj.AssemblyReference.cache
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.csproj.CoreCompileInputs.cache
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.csproj.CopyComplete
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.dll
+D:\CLG-SEGI\2023\Sem 8\Integreted Systems project (IT299N)\SEGI_RestaurantManagement_SysProj_FYP\SEGI_RestaurantManagement_SysProj_FYP\obj\Debug\SEGI_RestaurantManagement_SysProj_FYP.pdb

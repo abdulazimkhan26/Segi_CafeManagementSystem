@@ -1,0 +1,44 @@
+﻿*{
+   margin:0px;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    box-sizing: border-box;
+    margin:0px;
+}
+
+.container {
+    position:fixed;
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    padding-top:100px;
+    text-align:center;
+}
+
+    .container .img {
+        position: relative;
+        background-image: url(images/nathan-dumlao-ipbvncyrsx0-unsplash.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-blend-mode: multiply;
+        background-color: rgb(58, 57, 57);
+        width: 40%;
+        height: 55vh;
+        margin: 0px auto;
+        border-radius: 30px;
+        padding-top:140px;
+    }
+
+#displayusername {
+    margin-right: 70px;
+}
+
+#displayemail{
+    
+}
+
+#lblemail {
+    margin-left: 50px;
+}
